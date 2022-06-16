@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Insert Petani Berhasil 3 Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bebe60a7-934e-4722-8ea5-902c906600a0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b190cc4c-f969-4855-8006-8fa03e1e6535</id>
+      <masked>false</masked>
+      <name>id_user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c82d12ea-14bd-4f5e-a17d-7be42598484f</id>
+      <masked>false</masked>
+      <name>nama_petani</name>
+   </variable>
+</TestCaseEntity>
